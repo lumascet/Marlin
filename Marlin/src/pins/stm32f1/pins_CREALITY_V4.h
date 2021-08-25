@@ -141,7 +141,7 @@
   #define FAN_PIN                           PA0   // FAN
 #endif
 #if PIN_EXISTS(FAN)
-  #define FAN_SOFT_PWM
+  //#define FAN_SOFT_PWM
 #endif
 
 //
